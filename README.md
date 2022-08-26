@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=300&text=Welcome%20To%20My%20Github&animation=fadeIn&fontColor=ffffff&fontAlignY=40&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=300&text=Welcome%20To%20Yoon's%20Github&animation=fadeIn&fontColor=ffffff&fontAlignY=40&fontSize=40" />
 <h3>Hi, there🙌🏻</h3>
 	<p>I'm <b>Yoonju Kim</b>, Junior Front-End Developer🖥️ </p>
 	<br />
