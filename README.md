@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" width="100">
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=300&text=Yoonju%20kim&animation=fadeIn&fontColor=ffffff&fontAlignY=40)
 
 ## 🧑🏻‍💻  Tech Stack
