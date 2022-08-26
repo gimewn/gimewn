@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gimewn/gimewn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=300&text=Yoonju%20kim&animation=fadeIn&fontColor=ffffff&fontAlignY=40)
-<div align="center">
-## 🧑🏻‍💻  Tech Stack
+![header](https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=300&section=header&text=Yoonju%20kim&animation=fadeIn&fontColor=ffffff&fontAlignY=40)
+<br />
+## ⚒️ Tech Stack
+<br />
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-<div>
