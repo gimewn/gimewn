@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=300&text=Yoonju%20kim&animation=fadeIn&fontColor=ffffff&fontAlignY=40)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=300&text=Yoonju%20kim&animation=fadeIn&fontColor=ffffff&fontAlignY=40)
+<div align="center">
 ## 🧑🏻‍💻  Tech Stack
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
