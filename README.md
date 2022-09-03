@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 	<p>I want to become a Front-End developer who makes user comfortable🍀</p>
 	<br />
 	<div align="center">
-<h3>✏️ Tech Stack ✏️</h3>
+<h3>✏️ Tech Stack</h3>
 <h4>Front-End</h4>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 	<br />
 	<h3>📌 About Me </h3>
 	<a href="https://studyoon.tistory.com" target="_blank">
-		<img src="https://img.shields.io/badge/TECH Blog-FFC4AB?style=for-the-badge&logo=Tistory&logoColor=white"/>
+		<img src="https://img.shields.io/badge/TECH Blog-b0c4de?style=for-the-badge&logo=Tistory&logoColor=white"/>
 	</a>
 	<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=gimewn97@gmail.com" target="_blank">
-	<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Gmail-FFC4AB?style=for-the-badge&logo=Gmail&logoColor=white"/>
 	</a>
 		</div>
 	<br />
@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gimewn" />&nbsp
 		<img src="http://mazandi.herokuapp.com/api?handle=gimewn&theme=warm"/>
 	</div>
+	<br />
+	<img src="https://github-readme-stats.vercel.app/api?username=gimewn&show_icons=true&theme=gruvbox" />
 	<br />
 	<br />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=200&reversal=true&section=footer" />
