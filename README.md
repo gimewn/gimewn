@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=300&text=Welcome%20To%20Yoon's%20Github&animation=fadeIn&fontColor=ffffff&fontAlignY=40&fontSize=40" />
-<h3>Hi, there🙌🏻</h3>
-	<p>I'm <b>Yoonju Kim</b>, Junior Front-End Web Developer🖥️ </p>
-	<p>I want to become a Front-End developer who makes user comfortable🍀</p>
+<h3>안녕하세요!🙌🏻</h3>
+	<p>저는 주니어 개발자 <b>김윤주</b>입니다. </p>
+	<p>사용자의 편의성을 높일 수 있는 방안에 대해 관심이 많고, 프론트엔드와 UIUX를 좋아해요🍀</p>
+	<p>잘 부탁드립니다☺️</p>
 	<br />
 	<div align="center">
 <h3>✏️ Tech Stack</h3>
