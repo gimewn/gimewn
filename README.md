@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 	<p> <b>사용자의 시선</b>에서 <b>경험으로 소통</b>하는 개발자, <b>김윤주</b>입니다. </p>
 	<p>잘 부탁드립니다☺️</p>
 	<br />
-	<a href="https://www.notion.so/Kim-Yoonju-2359200a5fc24dfebab471077be53c15"><b>🍀 포트폴리오 </b></a>
+	<a href="https://www.notion.so/Kim-Yoonju-2359200a5fc24dfebab471077be53c15"><b>🔗 포트폴리오 </b></a>
 	<br />
 	<br />
 	<div align="center">
