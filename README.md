@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=300&text=Welcome%20To%20Yoon's%20Github&animation=fadeIn&fontColor=ffffff&fontAlignY=40&fontSize=40" />
-<h3>안녕하세요!🙌🏻</h3>
+<h2>안녕하세요!🙌🏻</h2>
 	<p> <b>사용자의 시선</b>에서 <b>경험으로 소통</b>하는 개발자, <b>김윤주</b>입니다. </p>
 	<p>잘 부탁드립니다☺️</p>
 	<br />
-	<a href="https://www.notion.so/Kim-Yoonju-2359200a5fc24dfebab471077be53c15"><b>🔗 포트폴리오 </b></a>
+	<a href="https://www.notion.so/Kim-Yoonju-2359200a5fc24dfebab471077be53c15"><h3>🔗 포트폴리오 </h3></a>
 	<br />
 	<br />
 	<div align="center">
