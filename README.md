@@ -13,11 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=300&text=Welcome%20To%20Yoon's%20Github&animation=fadeIn&fontColor=ffffff&fontAlignY=40&fontSize=40" />
-<h3>안녕하세요!🙌🏻</h3>
-	<p><b>경험으로 소통</b>하며 <b>개선하는</b> 개발자, <b>김윤주</b>입니다. </p>
-	<p>잘 부탁드립니다☺️</p>
-	<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=300&text=Kim%20Yoonju&animation=fadeIn&fontColor=ffffff&fontAlignY=40&fontSize=40" />
+
 <div align="center">
 <h3>📌 About Me </h3>
 <a href="https://studyoon.tistory.com" target="_blank">
