@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=gimewn97@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-FFC4AB?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a> -->
-<a href="https://sore-soldier-e16.notion.site/Kim-Yoon-Ju-2359200a5fc24dfebab471077be53c15" target="_blank">
+<a href="https://sore-soldier-e16.notion.site/Kim-Yoon-Ju-ebe44e46e393427484a97f2f626adac2" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-99CC99?style=for-the-badge&logo=ReadMe&logoColor=white"/>
 </a>
 <br />
