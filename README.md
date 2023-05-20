@@ -12,61 +12,63 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=200&animation=fadeIn&fontColor=ffffff&fontAlignY=40&fontSize=40" />
 
-<div align="center">
-<h3>📌 About Me </h3>
-<a href="https://studyoon.tistory.com" target="_blank">
-<img src="https://img.shields.io/badge/TECH Blog-b0c4de?style=for-the-badge&logo=Tistory&logoColor=white"/>
-</a>
-<!-- <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=gimewn97@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-FFC4AB?style=for-the-badge&logo=Gmail&logoColor=white"/>
-</a> -->
+# *Welcome To My GitHub ✨*
+
+### I'm Yoonju Kim who have an interest in UX/UI and enhancing usability!
+
+<!--포트폴리오-->
 <a href="https://bit.ly/3HvENd3" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-99CC99?style=for-the-badge&logo=ReadMe&logoColor=white"/>
+	<img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=githubsponsors&logoColor=ffffff"/>
 </a>
-<br />
-<br />
-<h3>✏️ Tech Stack</h3>
-<h4>Front-End</h4>
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
-</div>
-<div>
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-</div>
-<!-- <h4>Back-End</h4>
-<div>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
-</div> -->
-<h4>Communication</h4>
-<div>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-</div>
-	<br />
-	<br />
-	<hr />
-	<br />
-	<br />
-	<div>
-		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gimewn" />&nbsp
-	<img src="https://github-readme-stats.vercel.app/api?username=gimewn&show_icons=true&theme=gruvbox" />
-<!-- 		<img src="http://mazandi.herokuapp.com/api?handle=gimewn&theme=warm"/> -->
-	</div>
-	<br />
-	<br />
-	<br />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=20:b0c4de,100:FFC4AB&height=200&reversal=true&section=footer" />
 
+<!--블로그-->
+<a href="https://velog.io/@gimewn" target="_blank">
+	<img src="https://img.shields.io/badge/blog-20C997?style=for-the-badge&logo=velog&logoColor=ffffff"/>
+</a>
+
+<!--메일-->
+<a href="mailto:yoonju_1120@naver.com" target="_blank">
+	<img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+</a>
+
+## Skills 💭
+### Front-End
+<div>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
+	<br>
+	<img src="https://img.shields.io/badge/Styled Component-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff"/>
 </div>
+
+### Back-End
+<div>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+	<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff"/>
+</div>
+
+### Tools
+<div>
+	<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=ffffff"/>
+</div>
+
+### Design
+<div>
+	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff"/>
+</div>
+
+---
+
+![yoonju's github stats](https://github-readme-stats.vercel.app/api?username=gimewn&show_icons=true&count_private=true&hide_title=true&text_color=292929&icon_color=FF6D60&ring_color=FF6D60) &nbsp;
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gimewn&color=white)](https://velog.io/@gimewn)
