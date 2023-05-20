@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # *Welcome To My GitHub ✨*
 
 ### I'm Yoonju Kim who have an interest in UX/UI and enhancing usability!
-
+<div>
 <!--포트폴리오-->
 <a href="https://bit.ly/3HvENd3" target="_blank">
 	<img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=githubsponsors&logoColor=ffffff"/>
@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 <a href="mailto:yoonju_1120@naver.com" target="_blank">
 	<img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
 </a>
+</div>
+
+<br/>
+	
+![yoonju's github stats](https://github-readme-stats.vercel.app/api?username=gimewn&show_icons=true&count_private=true&hide_title=true&text_color=292929&icon_color=FF6D60&ring_color=FF6D60) &nbsp;
 
 ## Skills 💭
 ### Front-End
@@ -67,8 +72,3 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff"/>
 	<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff"/>
 </div>
-
----
-
-![yoonju's github stats](https://github-readme-stats.vercel.app/api?username=gimewn&show_icons=true&count_private=true&hide_title=true&text_color=292929&icon_color=FF6D60&ring_color=FF6D60) &nbsp;
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=gimewn&color=white)](https://velog.io/@gimewn)
