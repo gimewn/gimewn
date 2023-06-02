@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 <br/>
 	
-![yoonju's github stats](https://github-readme-stats.vercel.app/api?username=gimewn&show_icons=true&count_private=true&hide_title=true&text_color=292929&icon_color=FF6D60&ring_color=FF6D60) &nbsp;
-
+<!-- ![yoonju's github stats](https://github-readme-stats.vercel.app/api?username=gimewn&show_icons=true&count_private=true&hide_title=true&text_color=292929&icon_color=FF6D60&ring_color=FF6D60) &nbsp;
+ -->
 ## Skills 💭
 ### Front-End
 <div>
