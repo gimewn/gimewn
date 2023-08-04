@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 ### Tools
 <div>
 	<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/>
-	<img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff"/>
 	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/>
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=ffffff"/>
 </div>
