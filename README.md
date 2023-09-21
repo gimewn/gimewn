@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 </a>
 
 <!--블로그-->
-<a href="https://studyoon.tistory.com" target="_blank">
-	<img src="https://img.shields.io/badge/blog-ED9121?style=for-the-badge&logo=tistory&logoColor=ffffff"/>
+<a href="https://velog.io/@gimewn" target="_blank">
+	<img src="https://img.shields.io/badge/blog-20C997?style=for-the-badge&logo=velog&logoColor=ffffff"/>
 </a>
 
 <!--메일-->
