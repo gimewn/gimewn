@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 # *Welcome To My GitHub ✨*
 
 ### I'm Yoonju Kim who have an interest in UX/UI and enhancing usability!
+
 <div>
 <!--포트폴리오-->
 <a href="https://bit.ly/3HvENd3" target="_blank">
@@ -39,6 +40,7 @@ Here are some ideas to get you started:
  -->
 ## Skills 💭
 ### Front-End
+
 <div>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff"/>
@@ -52,6 +54,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Back-End
+
 <div>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff"/>
 <!-- 	<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -60,6 +63,7 @@ Here are some ideas to get you started:
 </div>
 
 ### Tools
+
 <div>
 	<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/>
 	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/>
