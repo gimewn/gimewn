@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div>
 <!--포트폴리오-->
 <a href="https://bit.ly/3HvENd3" target="_blank">
-	<img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=githubsponsors&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=githubsponsors&logoColor=ffffff"/>
 </a>
 
 <!--블로그-->
